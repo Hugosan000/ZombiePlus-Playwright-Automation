@@ -3,7 +3,7 @@
 
 ## Continuous Improvement
 
-This project is not finished yet, so please be patient! We have several upcoming features planned, including:
+This project is not finished yet, so please be patient! I have several upcoming features planned, including:
 
 - Transitioning from `JavaScript` to `TypeScript`
 - Introducing more automated UI scenarios to enhance test coverage
@@ -55,8 +55,8 @@ The tests utilize a Page Object Model (POM) design pattern to abstract the inter
 ### Initialization
 Before each test, page objects are instantiated with a reference to the Playwright page object, providing a fresh setup for each test scenario.
 
-## Test Cases
-Given the extensive nature of the test suite, a dedicated document has been created to explain the tests conducted using the Test Cases format for better comprehension. Please refer to this document for detailed information.
+## [Test Cases](https://github.com/Hugosan000/ZombiePlus-Playwright-Automation/blob/main/Test%20Cases%20Documentation.md)
+Given the extensive nature of the test suite, a dedicated document has been created to explain the tests conducted using the Test Cases format for better comprehension. Please refer to this [document](https://github.com/Hugosan000/ZombiePlus-Playwright-Automation/blob/main/Test%20Cases%20Documentation.md) for detailed information.
 
 ![image](https://github.com/Hugosan000/ZombiePlus-Playwright-Automation/assets/61331185/ea7fc0f6-0474-4599-9b2c-c44a099e826d)
 
